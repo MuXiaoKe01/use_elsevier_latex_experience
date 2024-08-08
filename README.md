@@ -1,4 +1,4 @@
-使用elsevier期刊latex模板的经验
+![image](https://github.com/user-attachments/assets/6d366737-fc06-4eec-9051-383c49d0dd05)使用elsevier期刊latex模板的经验
 
 首先下载elsarticle模板，下载地址：https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions
 
@@ -100,6 +100,22 @@ article.cls的其他选项，默认开启a4paper,10pt,oneside,onecolumn,preprint
 \newtheorem{thm}{Theorem}%%这行代码定义了一个名为thm的新定理环境，当你使用\begin{thm}和\end{thm}时，它会显示为"Theorem"。这个环境是独立的，没有编号依赖于其他环境。
 
 \newtheorem{lem}[thm]{lemma}%%这行代码定义了另一个名为lem的新定理环境，显示为"lemma"。这里的[thm]参数意味着lem环境的编号将依赖于thm环境的编号。也就是说，如果你在一个章节中定义了多个定理，然后定义了一个引理，引理的编号将继续从上一个定理的编号开始。
+
+
+![image](https://github.com/user-attachments/assets/2b542f5d-6ce3-449d-a9f5-b1aca610a3df)
+
+![image](https://github.com/user-attachments/assets/6901772e-e3cb-450d-9cad-ec7b00e6de8c)
+
+![image](https://github.com/user-attachments/assets/9cac7e19-d935-47a9-bfec-91c120a0a50d)
+
+![image](https://github.com/user-attachments/assets/b37ec5ce-cd38-4449-99b0-992fe40da9d8)
+
+![image](https://github.com/user-attachments/assets/41979b6f-ce0b-4036-bdf8-e259cbbca6cc)
+
+
+
+
+
 
 
 
